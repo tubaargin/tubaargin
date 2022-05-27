@@ -1,4 +1,4 @@
-### Hi there, I'm [TUBA!] 👋
+### Hi there, I'm Tuba 👋
 
 <a href="https://twitter.com/arn_tuba" target="_blank">
   
@@ -6,6 +6,10 @@
 </a>
 <a href="https://www.linkedin.com/in/tubaargin/" target="_blank">
   <img align="left" alt="Tuba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/arn_tuba/" target="_blank">
+  <img align="left" alt="Tuba's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://github.com/tubaargin" target="_blank">
   <img align="left" alt="Tuba's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
@@ -18,13 +22,11 @@
   ### 🧐 More About Me:
   
 - 💻 Software Developer
-- 📝 I'm currently learning Java, Spring, Javascript
+- 📝 I'm currently learning Html5, Css3, Bootstrap5, Javascript, React, Java, Kotlin, Spring 
 - ⌛ I'm exploring AWS & Microsoft Azure
 - 💬 Talk to me about Java, OOP, Mobile Development
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> 
-
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/tubaargin/tubaargin/main/code.gif?raw=true" width="500" height="320" />
  
 **Back-end**
 
@@ -49,6 +51,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+ <img align="left" alt="GIF" src="https://raw.githubusercontent.com/tubaargin/tubaargin/main/code.gif?raw=true" width="500" height="320" />
+ 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉**
 ```text
